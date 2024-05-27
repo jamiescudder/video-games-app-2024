@@ -29,5 +29,5 @@ const TopBar = styled(Box)`
   top: 0;
   height: 50px;
   width: 100%;
-  //background-color: #f4f4f4;
+  background-color: var(--backgroundGrey);
 `
