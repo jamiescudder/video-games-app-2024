@@ -25,7 +25,6 @@ const TopBar = styled(Box)`
   display: flex;
   align-content: center;
   justify-content: center;
-  background-color: dimgrey;
   position: fixed;
   top: 0;
   height: 50px;

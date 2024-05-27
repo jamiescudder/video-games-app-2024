@@ -1,5 +1,4 @@
 import React from 'react'
-import "video-games-app/styles/globals.css"
 import type { AppProps } from "next/app"
 import styled, { ThemeProvider } from 'styled-components'
 import theme from 'video-games-app/theme'

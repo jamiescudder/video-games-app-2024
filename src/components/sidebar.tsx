@@ -21,7 +21,6 @@ const PlatformSidebar: React.FC<Props> = () => {
 }
 export default PlatformSidebar
 const Sidebar = styled(Box)`
-  background-color: dimgrey;
   position: fixed;
   height: 100%;
   width: 250px;
